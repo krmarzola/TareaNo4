@@ -49,3 +49,5 @@ Nota:
 
 3.se da click en calcular y genera los resultados.
 
+Nota adicional: El diseño de la pagina y su presentación en heroku no se tuvo en cuenta dentro de las mediciones
+de PSP
